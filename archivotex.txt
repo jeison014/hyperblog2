@@ -1,0 +1,4 @@
+este es un documento de texto
+para poder 
+hacer el video 8 
+de git
